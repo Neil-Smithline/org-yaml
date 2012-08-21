@@ -1,0 +1,83 @@
+* First heading
+:PROPERTIES:
+:tumblr: done
+:ID: 9DE5A36C-3211-4D6D-B862-A9EF95B5A7FA
+:END:
+some body
+
+for first heading
+
+* COMMENT Second heading
+:PROPERTIES:
+:foo: goo
+:tumblr: ready
+:bar:   def
+:END:
+second body
+
+a tumblr body
+
+
+* Fourth heading
+:PROPERTIES:
+:tumblr: done
+:foo:   abc
+:bar:   def
+:END:
+(org-entry-properties)
+# :tumblr: ready, done
+# :type: regular, photo, link, quote, conversation, video, audio.
+# :title: for `regular', `conversation', and `video'
+# :state: published, draft, queue, submission
+# :format: html or markdown
+# :tags: Comma-separated list of tags.
+# :date: Post date.
+# :private: If the post should be marked private.
+# :slug: A custom string to appear in the post's url.
+# :group: ID for a secondary blog.
+# :generator: Short description of the publishing application.
+# :send-to-twitter: Twitter status update to make if the tumblelog has enabled it.
+# :publish-on: If the post state is 'queue', publish on this date
+# :caption: for `photo's
+# :click-through-url: for `photo'
+# :source: for `quote's
+# :name: for `link'
+# :description: for `link'
+# :caption: for `videa' and `audio'
+
+title
+
+4th
+
+more crap
+*** A second level heading.
+:PROPERTIES:
+:foo: goo
+:tumblr: ready
+:bar:   def
+:ID: 6D7D2066-8BD4-4A55-A26B-B1AEF7E8EBA5
+:END:
+2nd level text
+***** third level heading
+:PROPERTIES:
+:ID: 95863274-D01A-4066-895D-E8C2228BD880
+:END:
+and its text
+
+
+*** Second second level heading.
+:PROPERTIES:
+:foo: goo
+:tumblr: ready
+:bar:   def
+:ID: D800BC07-E28C-402F-B94F-A4FF420C7851
+:END:
+2nd 2nd level text
+
+* A first level tumblr
+:PROPERTIES:
+:foo: goo
+:tumblr: ready
+:bar:   def
+:END:
+text for te first level tumblr

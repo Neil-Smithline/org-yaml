@@ -2,4 +2,12 @@
 
 This is the start of an `org-mode' to YAMLized `org-mode' converter. It is definitely not ready for prime time.
 
-# LocalWords:  yaml
+* Files In This Repo
+- org-yaml.el: The prototype of the YAMLizer. While it supports generic conversion of entries to YAML, for testing it is hardwired to only work on entries that have the `tumblr' attribute set to `ready'.
+- t.org: A simple `org-mode' test file that has two headings in it with the `tumblr' attribute set to `ready'.
+- t-generated-yaml-*.org: Two YAMLized `org-mode' files
+
+
+
+* COMMENT Org Mode Settings
+# LocalWords:  yaml YAMLizer YAMLized
