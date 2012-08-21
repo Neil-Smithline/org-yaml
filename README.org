@@ -1,0 +1,5 @@
+* org-yaml
+
+This is the start of an `org-mode' to YAMLized `org-mode' converter. It is definitely not ready for prime time.
+
+# LocalWords:  yaml
